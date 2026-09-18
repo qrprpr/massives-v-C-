@@ -15,4 +15,9 @@
 
 ```bash
 gcc -std=c11 -Wall -Wextra -Wpedantic -O0 task1.c -o task1
+
+### task2.c
+
+```bash
 gcc -std=c11 -Wall -Wextra -Wpedantic -O0 task2.c -o task2
+
